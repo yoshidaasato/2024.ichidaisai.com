@@ -38,7 +38,6 @@ export const Footer = () => {
                             src={instagramLogo}
                             alt="ichidaisai-instagram"
                             className="sns-icon"
-                            
                         ></img>
                     </Link>
                 </div>
